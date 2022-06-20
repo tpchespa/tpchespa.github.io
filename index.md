@@ -1,4 +1,5 @@
-## Automatyzacja przygotowania projektów opakowań
+## Automatyzacja 
+# przygotowania projektów opakowań
  
  Dane potrzebne do przygotowania.
 
@@ -6,7 +7,7 @@
 
 ### Część2
 
-
+-
 
 ### Cześć3
 
