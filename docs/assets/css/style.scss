@@ -1,3 +1,12 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+.site-title::before {
+content: url("docs/assets/images/Logo CRS Full.png");
+display: inline-block;
+position: relative;
+width: 5px;
+top: 10px;
+
+}
