@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-github:
-is\_project\_page:false
 title: Automatyzacja opakowań
 description: Prezentacja dotycząca automatyzowania i przetwrzania danych do grafik opakowań. 
 
