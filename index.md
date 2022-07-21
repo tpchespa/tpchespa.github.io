@@ -2,7 +2,7 @@
  
  Dane potrzebne do przygotowania.
 
-![!ChespaTemplate](/docs/assets/images/Chespa_BlankTemplate%20.png)
+<img src="images/Chespa_BlankTemplate%20.png" alt="hi" class="inline"/>
 
 ### Część2
 
