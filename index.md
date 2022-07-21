@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="/docs/assets/css/main.css" />
 ## Wstęp
  
  Dane potrzebne do przygotowania.
