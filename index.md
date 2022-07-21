@@ -4,7 +4,7 @@
  
  Dane potrzebne do przygotowania.
 <div class="imageContainer">
- <a href="/docs/assets/images/Chespa_BlankTemplate%20.png" alt="Image description" target="_blank"><img scr="/docs/assets/images/Chespa_BlankTemplate%20.png"/></a>
+ <a href="/docs/assets/images/Chespa_BlankTemplate%20.png" alt="Image description" target="_blank"><img scr="/docs/assets/images/Chespa_BlankTemplate%20.png"></img></a>
 </div>
 
 ### Część2
