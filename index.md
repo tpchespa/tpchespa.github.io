@@ -1,8 +1,9 @@
 ## Wstęp
  
  Dane potrzebne do przygotowania.
-
-<img src="/docs/assets/images/Chespa_BlankTemplate%20.png" alt="hi" class="inline"/>
+<div class="imageContainer">
+<img src="/docs/assets/images/Chespa_BlankTemplate%20.png" alt="hi"/>
+</div>
 
 ### Część2
 
