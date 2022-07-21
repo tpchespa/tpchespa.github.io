@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="/docs/assets/css/main.css" />
+<link type="text/css" rel="stylesheet" href="/docs/assets/css/style.css" />
 
 ## Wstęp
  
