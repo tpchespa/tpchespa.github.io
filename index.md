@@ -3,8 +3,8 @@
 # Lista tematów
 <br/><br/>
 <ls>
-  <img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/><br>
-  <li><a href="ownCloudManual.html"><span style="font-size: 24px">CRS ownCloud</span></a></li>
+  <br>
+  <li><a href="ownCloudManual.html"><span style="font-size: 24px"><img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/>CRS ownCloud</span></a></li>
 </ls>
 
 
