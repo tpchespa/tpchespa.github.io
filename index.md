@@ -2,7 +2,7 @@
 
 # Lista tematów
 <ls>
-  <img size="30%" src="/docs/assets/images/logoOwnClod.svg"/>
+  <img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/>
   <li><a href="ownCloudManual.html">CRS ownCloud</a></li>
 </ls>
 
