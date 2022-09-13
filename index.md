@@ -4,7 +4,7 @@
 <br/><br/>
 <ls>
   <img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/><br>
-  <li><a href="ownCloudManual.html"><span style="font-size: 14px">CRS ownCloud</span></a></li>
+  <li><a href="ownCloudManual.html"><span style="font-size: 18px">CRS ownCloud</span></a></li>
 </ls>
 
 
