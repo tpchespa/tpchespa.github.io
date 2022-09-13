@@ -1,3 +1,5 @@
+<img align="middle" width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/><br/>
+
 IT założyło nam wszystkim konta na ownCloudzie. Zastąpi przede wszystkim wetransfera.<br/>
 Adres:<br/>
 <a href="https://chesnet.chespa.eu/">https://chesnet.chespa.eu/</a><br/>
