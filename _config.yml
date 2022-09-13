@@ -1,6 +1,8 @@
 title: Pelczar CRS Repository
 logo: docs/assets/images/Logo CRS Full.png
 description: Pelczar Library Manuals
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
 
 
