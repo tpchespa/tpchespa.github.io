@@ -10,26 +10,33 @@ Adres do serwisu:<br/>
 
 Dane do logowania są takie same jak do domeny. Czyli login i hasło jest takie same jak do Waszego konta na komputerze, którego używacie na co dzień:
 <br/>
-<img src="/docs/assets/images/Login.png"/><br/>
-<img src="/docs/assets/images/Login2.png"/><br/><br/>
+<img width="50%" height="50%" src="/docs/assets/images/Login.png"/><br/>
+<img width="50%" height="50%" src="/docs/assets/images/Login2.png"/><br/><br/>
 
 Żeby wysłać pliki, trzeba przeciągnąć je na główny ekran z listą, na której już znajduje się przykładowy plik (ownCloud Manual.pdf):<br/>
 <img src="/docs/assets/images/FolderList.png"/><br/>
 <video width="850px" height="450px" autoplay loop muted> <source src="/docs/assets/images/Drag&Drop.mov"></video><br/><br/>
+
 Klikamy później w przesłany plik. Otworzy się panel z prawej strony:<br/>
 <img src="/docs/assets/images/NewFile1.png"/><br/><br/>
+
 Następnie klik w zakładkę “Sharing”:<br/>
 <img src="/docs/assets/images/NewFile2.png"/><br/><br/>
 Kilk w “Public Links”:<br/>
 
 <img src="/docs/assets/images/NewFile2.png"/><br/><br/>
+
 Następnie:<br/>
+
 <img src="/docs/assets/images/NewFile3.png"/><br/><br/>
 <img src="/docs/assets/images/NewFile4.png"/><br/><br/>
 
 Otworzy się nowe okienko, w którym wpisujemy nazwę przesyłanego pliku i adresy, na które ma być wysłany publiczny link <br/>
+
 <img src="/docs/assets/images/LinkShare.png"/><br/><br/>
+
 <video autoplay loop muted> <source src="/docs/assets/images/EmailInput.mov"></video><br/><br/>
+
 Po wpisaniu adresu klikamy dla potwierdzenia w wyświetlony adres jeszcze raz (poniżej pola do wpisania). <br/>
 Na końcu możemy zaznaczyć opcję, żeby wysłać kopię maila dla siebie.<br/>
 Po kliknięciu “Share”, system wyśle maila na wpisane adresy. <br/><br/>
