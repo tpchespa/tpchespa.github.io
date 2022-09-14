@@ -38,6 +38,6 @@ Po wpisaniu adresu klikamy dla potwierdzenia w wyświetlony adres jeszcze raz (p
 Na końcu możemy zaznaczyć opcję, żeby wysłać kopię maila dla siebie.<br/>
 Po kliknięciu “Share”, system wyśle maila na wpisane adresy.
 <img src="/docs/assets/images/LinkShare3.png"/><br/>
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
+<button onclick="topFunction()" id="TopButt" title="Go to top">Top</button> 
  
  
