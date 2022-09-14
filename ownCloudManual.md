@@ -7,7 +7,7 @@ IT założyło nam wszystkim konta na ownCloudzie. Zastąpi przede wszystkim wet
 
 Adres do serwisu:<br/>
 
-<a href="https://chesnet.chespa.eu/">https://chesnet.chespa.eu/</a><br/>
+<a href="https://chesnet.chespa.eu/"><span style="font-size:16px">https://chesnet.chespa.eu/</span></a><br/>
 
 Dane do logowania są takie same jak do domeny. Czyli login i hasło jest takie same jak do Waszego konta na komputerze, którego używacie na co dzień:
 <br/><br/>
