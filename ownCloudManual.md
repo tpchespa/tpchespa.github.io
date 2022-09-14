@@ -26,7 +26,7 @@ Następnie klik w zakładkę “Sharing”:<br/>
 Kilk w “Public Links”:<br/>
 <img src="/docs/assets/images/NewFile3.png"/><br/><br/>
 
-Następnie:<br/>
+Następnie "Create public link":<br/>
 <img src="/docs/assets/images/NewFile4.png"/><br/><br/>
 
 Otworzy się nowe okienko, w którym wpisujemy nazwę przesyłanego pliku i adresy, na które ma być wysłany publiczny link: <br/>
