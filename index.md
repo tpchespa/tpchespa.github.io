@@ -4,7 +4,7 @@
 <div style="margin-left: 10px">
 <br/><br/>
 <ul>
-  <li><a href="ownCloudManual.html"><span style="font-size: 20px"><img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/>(Chespa CRS ownCloud)</span></a></li>
+  <li><a href="ownCloudManual.html"><span style="font-size: 20px">Chespa CRS ownCloud <img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/></span></a></li>
   <li><a href="ownCloudManual.html"><span style="font-size: 20px">Kolejny Link do innego manuala</span></a></li>
 </ul>
 </div>
