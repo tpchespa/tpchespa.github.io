@@ -32,11 +32,11 @@ Następnie "Create public link":<br/>
 Otworzy się nowe okienko, w którym wpisujemy nazwę przesyłanego pliku i adresy, na które ma być wysłany publiczny link: <br/>
 <img src="/docs/assets/images/LinkShare.png"/><br/><br/>
 
-<video autoplay loop muted> <source src="/docs/assets/images/EmailInput.mov"></video>
+<video autoplay loop muted> <source src="/docs/assets/images/EmailInput.mov"></video><br/>
 
 Po wpisaniu adresu klikamy dla potwierdzenia w wyświetlony adres jeszcze raz (poniżej pola do wpisania). <br/>
 Na końcu możemy zaznaczyć opcję, żeby wysłać kopię maila dla siebie.<br/>
-Po kliknięciu “Share”, system wyśle maila na wpisane adresy. <br/><br/>
+Po kliknięciu “Share”, system wyśle maila na wpisane adresy.
 <img src="/docs/assets/images/LinkShare3.png"/><br/>
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
  
