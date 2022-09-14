@@ -1,4 +1,5 @@
 <link type="text/css" rel="stylesheet" href="/docs/assets/css/style.css" />
+<script src="/docs/assets/mainCustoms.js"></script>
 
 ## Lista tematów
 <div style="margin-left: 10px">
