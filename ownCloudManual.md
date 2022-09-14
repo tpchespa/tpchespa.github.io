@@ -15,7 +15,7 @@ Dane do logowania są takie same jak do domeny. Czyli login i hasło jest takie 
 
 Żeby wysłać pliki, trzeba przeciągnąć je na główny ekran z listą, na której już znajduje się przykładowy plik (ownCloud Manual.pdf):<br/>
 <img src="/docs/assets/images/FolderList.png"/><br/>
-<video width="680px" height="450px" autoplay loop muted> <source src="/docs/assets/images/Drag&Drop.mov"></video><br/><br/>
+<video width="680px" height="450px" autoplay loop muted> <source src="/docs/assets/images/Drag&Drop.mov"></video>
 
 Klikamy później w przesłany plik. Otworzy się panel z prawej strony:<br/>
 <img src="/docs/assets/images/NewFile1.png"/><br/><br/>
