@@ -9,7 +9,7 @@ Adres do serwisu:<br/>
 <a href="https://chesnet.chespa.eu/">https://chesnet.chespa.eu/</a><br/>
 
 Dane do logowania są takie same jak do domeny. Czyli login i hasło jest takie same jak do Waszego konta na komputerze, którego używacie na co dzień:
-<br/>
+<br/><br/>
 <img width="50%" height="50%" src="/docs/assets/images/Login.png"/><br/>
 <img width="50%" height="50%" src="/docs/assets/images/Login2.png"/><br/><br/>
 
