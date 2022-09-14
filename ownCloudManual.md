@@ -1,4 +1,4 @@
-<a style="font-size:14px" href="https://tpchespa.github.io">Back</a>
+<a style="font-size:18px" href="https://tpchespa.github.io">Powrót do listy tematów</a>
 
 <img width="30%" height="30%" src="/docs/assets/images/logoOwnClod.svg"/><br/>
 
